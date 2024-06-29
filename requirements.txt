@@ -11,3 +11,4 @@ requests==2.26.0
 ta==0.7.0
 alpha_vantage==2.3.1
 scikit-learn==0.24.2
+setuptools.extern.six==70.1.1 
